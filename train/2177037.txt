@@ -1,0 +1,49 @@
+This is a transcript of a European Parliament speech by Annette Cameron:
+
+.
+Mr President, as Commissioner McCreevy is unable to be present today, I will represent the Commission in this debate.
+I wish to begin by thanking Michel Rocard, the rapporteur on this complex and technical file, for his hard work on this dossier.
+I would also like to thank the shadow rapporteurs, who have also made a major contribution to the work of Parliament on this issue.
+
+This proposal is not only relevant to inventions implemented on a standard computer  a laptop for instance  it covers many everyday consumer goods and devices increasingly important in our daily life, such as cars, washing machines, mobile phones, cameras, DVD players, TV sets, vacuum cleaners or medical equipment like scanners.
+
+The proposed directive neither aims to abolish the current practice of the European Patent Office nor to extend it to cover the patenting of pure computer programs, as many of the opponents of the proposals have claimed.
+Indeed, many have equally  and mistakenly  claimed that the directive is introducing the notion of patentability of software inventions in EU patent practice for the first time.
+The proposed text clearly excludes patents for pure software, as well as patents for business methods as such.
+Only technical innovations embodied in a computer program and meeting the patentability criteria of novelty, inventiveness and industrial applicability can be patented.
+
+A legal framework ensuring patent protection in this area is of key importance in enabling European industries, including small and mediumsized enterprises, to be competitive in a hightech environment.
+Patents can guarantee a return on RampD investments, attract venture capital and provide bargaining power.
+This has a spinoff effect which boosts innovation.
+
+The Commission believes that the common position meets the requirement of introducing a predictable legal framework that promotes and rewards innovation.
+
+Amendments seeking rejection of the common position have been tabled.
+I would like to point out that this would only increase legal uncertainty with respect to the inventions in question.
+Lack of harmonisation in this field would prejudice the competitiveness of the European undertakings and continue to be an obstacle to the smooth functioning of the internal market.
+
+In this spirit, the Commission continues to support the line taken in the common position.
+We can accept amendments that introduce useful technical or contextual clarifications, subject to minor finetuning or interpretative statements where necessary, but the overall balance of the proposal must be maintained.
+
+The current definition of technical contribution in the directive is taken from existing caselaw so, while it might be possible to word it more elegantly, we cannot turn it around.
+Instead, it seems more useful to focus on the scope of patentable subject matter in Article  4 , bringing the exclusions out more clearly.
+Changing them in contradiction with the European Patent Convention would, however, simply cause confusion.
+In addition, interoperability concerns can be addressed by allowing access where possible to necessary technologies while protecting the legitimate rights of inventors.
+
+The report prepared by the Committee on Legal Affairs generally maintains the balanced approach of the Commissions proposal.
+Nonetheless, there are some changes that should be made to bring the definitions and criteria into line with general patent law.
+
+The Commission can accept additional reporting requirements, including the establishment of new advisory committees, provided that resource implications are borne in mind by Parliament.
+
+The Commission cannot accept amendments which relate to the Commissions right of initiative, or the relationship with nonCommunity institutions.
+
+On key issues of substance, the Commission is strongly committed to promotion of interoperability as a means of fostering innovation and competition and to ensure that Community legislation does not act as a hindrance to different software development models  proprietary or open source.
+It therefore maintains a certain flexibility as to the solution found to deal with interoperability, provided that our international obligations are respected.
+
+On the scope of patentability, further clarification of the common position is acceptable but not significant changes departing from the current situation or from general patent law solutions.
+I should signal here that we see particular drafting problems with certain amendments relating to technical contribution and inventive step.
+
+On claims to computer programs on a carrier, where such programs implement a patented invention, the Commission can accept any solution between the common position and the Commissions original proposal, including alternative formulations to achieve the same objective of enforcing valid patents.
+
+The Commission has noted the high number of amendments tabled in addition to the Legal Affairs Committees report.
+I will set out the Commissions overall position on all amendments at the end of this mornings debate.

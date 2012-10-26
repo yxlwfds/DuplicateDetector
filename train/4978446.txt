@@ -1,0 +1,62 @@
+This is a transcript of a European Parliament speech by Amy Finlayson:
+
+The Commission has already expressed its position on the amendments that were adopted on  6  September.
+I am tempted to go back to that debate, but I want to be brief and concentrate on the essential question about unsolicited email.
+
+I would just like to point out that the Commission cannot support Amendments Nos  16 ,  25  and  34  that were rejected by Parliament on  6  September and are now resubmitted to the vote.
+The Commission can support the new Amendment No  43  on itemised bills.
+
+I will now focus on what has turned out to be the single most important topic in the debate on the proposed directive, namely unsolicited email.
+
+This House has been discussing the question of opting in or opting out for several years now and the result of the vote on  6  September showed how difficult it still is to find a compromise solution that is acceptable to a broad majority.
+
+However we cannot hesitate for much longer, we need to decide.
+We have not hurried this decision.
+There has been huge public international debate with industry, with scientists, with lawyers.
+I have myself participated in intensive debates in the United States and in Europe on this issue.
+I strongly disagree that asking a person whether they wish to opt in before you can bill them is a restriction on civil liberties.
+That is completely illogical.
+We can disagree on the details, but if people are asked to pay, they should have a choice beforehand, not afterwards.
+
+We should no longer be thinking mainly about messages arriving at a PC on our desk.
+We should be thinking about the future.
+Technology is changing rapidly.
+The wireless Internet will be different from the Internet available only on desktops.
+
+The positive point about the proposal made by the Committee on Citizens Freedoms in Amendment No  33  is that it recognises that unsolicited commercial messages to mobile phones are a real problem which can only be addressed by a harmonised optin approach.
+I fully agree.
+
+However, the flaw in that proposal is that it is based on the assumption that a mobile terminal can only receive SMS messages.
+Unfortunately that is no longer true.
+You can already receive email messages on mobile devices which are connected to the Internet.
+If you want to test that I can give you good examples.
+And with convergence it is very clear that SMS will certainly merge with other electronic messaging systems.
+
+The sender cannot know whether a message will be received on a mobile or fixed terminal because of the convergence.
+That is a technological fact.
+Banning unsolicited commercial SMS messages while allowing unsolicited electronic messages based on other technologies is therefore not a workable solution.
+
+Another problem I have with Amendment No  35  is the technologically biased approach in paragraph  4 .
+This paragraph apparently tries to address the problem of cost for users but the solution proposed is not a good one.
+European ISPs tell us that the technology of viewing the subject line before downloading a message is not compatible with the majority of systems used in Europe today.
+It would require substantial investment; it would be costly for the industry to introduce this feature and this does not seem justified when it is only a halfway solution.
+
+In short, apart from not being compatible with the single market, Amendment No  35  does not meet the need for technologyneutral and futureproof legislation.
+
+Amendment No  44 , on the other hand represents a technologyneutral compromise solution and has the merit of being a fully harmonised EU approach to unsolicited commercial email.
+In paragraph  2  of this amendment a rather substantial exemption from the optin principle is made for email addresses obtained within existing customer relationships.
+
+Here an optout approach would continue to be allowed, although this will mean an important concession as compared with the original Commission proposal.
+The exception can be justified because in the context of an existing customer relationship, companies have a lot to lose and are more likely to use marketing instruments with consideration.
+
+We should look at the future challenges.
+It is interesting to see what is happening in Japan today, where the wireless Internet has already taken off successfully.
+Nevertheless, the operator is facing a serious problem.
+It estimates that  85  of the  950  million messages sent daily to mobile devices are unsolicited commercial messages to mobile numbers chosen at random.
+This is causing a huge problem for network capacity, especially since most of these messages are addressed incorrectly and cannot be delivered.
+Moreover, it greatly annoys users who have to work their way through great quantities of unwanted commercial messages.
+The cost of purging the system of junk mail is estimated to be more than USD  8 . 2  million.
+
+So if we want to create a positive environment for the development of electronic commerce and third generation mobile services, now is the time to make sure that the uptake of wireless Internet services is not hampered by huge amounts of junk mail which the consumer is paying for against his will.
+Valuable capacity within networks and in batterydependent mobile terminals must be available for communications, messages and services that users really want to receive.
+Amendment No  44  is most likely to achieve that purpose.

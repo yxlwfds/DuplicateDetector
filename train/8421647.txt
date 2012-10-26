@@ -1,0 +1,47 @@
+This is a transcript of a European Parliament speech by Sebastian Reid:
+
+.
+Mr President, on behalf of the Commission, I wish to begin by thanking Mrs McCarthy, the rapporteur on this complex and technical but important matter, for her excellent work on this report.
+I should also like to thank the rapporteurs of the Committee on Culture, Youth, Education, the Media and Sport and the Committee on Industry, External Trade, Research and Energy, who have also made a major contribution to Parliaments work on this issue.
+
+Computers are becoming ever more ubiquitous in our everyday lives and, quite apart from the box that sits in almost all our offices and quite a few of our bedrooms, microchips are now commonplace in everyday gadgets, such as electric razors, cars and microwave ovens.
+The question of how to define the patentability of computerimplemented inventions is thus becoming steadily more important, especially as such inventions are estimated to cover  15  of new patent applications.
+Indeed, the potential patentability of computerimplemented inventions is already accepted in current European Patent Office practice.
+The proposed directive does not aim to abolish this practice or extend it to cover the patenting of pure computer programs, as many opponents of the directive have claimed.
+The directive is not intended to cover the patenting of pure computer programs.
+Indeed, many have  falsely  claimed that the directive introduces for the first time the notion of patentability of software inventions in the European Unions patent practice.
+That is not the case.
+
+I am, therefore, all the more pleased that the rapporteur has been able to steer past these misconceptions and produce a highly constructive report which seeks to build on the objective of the Commission set out in its original proposal, namely to clarify the scope of patentability of inventions, which incorporates software, and to harmonise across the European Union, on the basis of existing practice, the proposal which seeks to achieve harmonisation and clarification.
+However, nothing will become patentable which is not already patentable.
+
+It is in this spirit that the Commission would welcome the amendments to the text proposed in the report by Mrs McCarthy as a further step to clarifying that objective.
+
+Opponents of the directive have mounted a very vocal and, at times, even personal campaign based on halftruths and misconceptions which play on legitimate concerns over competitiveness, especially for smaller firms.
+But the fact is that the proposal does not introduce software patents and will not have all the terrible effects that the prophets of doom would have you believe.
+It is a prudent, cautious measure which will clarify and, if anything, tighten the rules which already exist.
+
+I am aware that a large number of amendments to the McCarthy report have been tabled, many of which seek to reintroduce ideas and themes already considered and rejected by the committee during the preparation of the report.
+There are some interesting points but, in the main, I am afraid that the majority of those amendments will be unacceptable to the Commission.
+
+I am very concerned about this situation: many of these amendments are fundamental.
+There is a very real prospect that the proposal will fail if Parliament chooses to accept them.
+If that were to happen, I fear two possible consequences, neither of which, I suspect, has been foreseen by some Members of Parliament and neither of which would advance the objectives which seem to lie behind a number of the new amendments.
+
+Firstly, in the complete absence of harmonisation at Community level, the European Patent Office and the various national patent offices would be free to continue their current practice of issuing patents for softwareimplemented inventions which may blur or even cross the line in undermining the exclusion from patentability of software as such under Article  52  of the European Patent Convention.
+The result would be not only continued legal uncertainty and divergence for inventors, but also a rollback of the position adopted by almost everyone in this Chamber and, above all, the Commission itself, namely to maintain the exclusion of pure software from patentability.
+We do not want that.
+The proposal rejects that.
+
+Secondly, in the absence of harmonisation at Community level, Member States are very likely to pursue harmonisation at European level instead.
+
+Let me explain what I mean by that remark.
+Unlike many other fields, that of patents is unusual in that, as a result of the existence of the European Patent Convention and the creation of the European Patent Office, there is already a supranational patent system in place which covers the whole of the European Union and indeed beyond.
+This system can be operated independently of the Communitys legislative process.
+
+If we fail in our efforts to achieve harmonisation of patent law relating to computerimplemented inventions in the European Union, we may well be confronted with a renegotiation of the European Patent Convention.
+The process of renegotiating the European Patent Convention would not require any contribution from this Parliament.
+
+The situation is clear: there is a single objective but a choice of means.
+Either we proceed using the Community method or we take a back seat and watch while Member States proceed by means of an intergovernmental treaty.
+It is clear that proceeding via this Parliament would give European citizens a greater say in patent legislation, an area which is so crucial to our economy.

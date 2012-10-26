@@ -1,0 +1,47 @@
+This is a transcript of a European Parliament speech by Marc White:
+
+It gives me great pleasure to present this report to the House on behalf of the Industry Committee.
+This is an owninitiative report by the Industry Committee and therefore it is a privilege to work on what are a relatively select number of these reports and to be the custodian on behalf of my committee.
+
+I would like to take the opportunity to thank all the colleagues who have contributed to this report and those who helped me in industry and in the Commission to make sure that we covered the ground thoroughly.
+I was pleased that the final report reflected all those contributions and was adopted unanimously by the committee.
+I hope that it will get the same level of support from the House today.
+This report sends a strong political signal to the Commission and Council that this Parliament wants this crucial area  the evolution of the Next Generation of Internet and electronic communication  to be reflected in the crucial decisions on research support that are about to made in the context of the Framework Six Programme.
+I know that a number of colleagues who will contribute here today are also actively involved in this programme.
+
+I would like to address the three key questions that I tried to answer in my report: Why is this so important?
+Why do we use the word initiative in presenting this to you?
+What do we want to look at and how are we going to achieve it?
+
+First I think the strategic importance of electronic communications and the Internet are increasingly well understood by everyone in this House.
+But what is the contribution for Commission and publiclyfunded research?
+This report argues that there is a strong case for supporting precompetitive work in the next stages of the evolution of this technology and that precompetitive work will underlie the future competitiveness of all the industries and service providers who are engaged in this crucial business, and governments as well.
+
+With the adoption of the GSM standard in mobile telecommunications, we have seen how important precompetitive work is in setting in place the standards, protocols, and architecture for the next and evolving stage of communications.
+It is clear why we should do it but what do we need to do in that context?
+We need to anticipate the technologies that will be needed in a world where the capacity of the whole distribution system for electronic communications is going to be far larger than it is today.
+That investment is going in now and will continue to go in, so we should plan for a world with a very large amount of bandwidth capacity: that is the jargon we would use for saying the carryingcapacity of the wires or the airwaves that are communicating users to users and users with service suppliers.
+
+The architecture that we should develop will be very different from the architecture we have today where carryingcapacity is constrained.
+One of the core areas proposed in this report is to ensure that we use the research network that the Commission is already funding  the Gant network  to use that effectively by supporting projects that will exploit that very high carryingcapacity research network in anticipation of the whole infrastructure evolution that in future will be driven by the market place.
+
+That is the core of the system architecture, but alongside that there are other public policy areas where we want to do research.
+Issues of security and data protection are clearly important.
+They are becoming more and more important as our personal data are so easily and quickly circulated.
+It is also becoming more important because, in the wireless connected world, we will increasingly have more devices feeding information about ourselves, houses and cars into the system.
+
+There will be a new type of personal data that is being used in a benign way to monitor the operation of our car and the security systems in our house, but if somebody could accumulate and collect that data it would be a far from benign use of it.
+Data protection therefore needs to be thought of differently, encapsulating data together so it cannot be amalgamated in an unauthorised way.
+
+We need to think about the new opportunities afforded by wireless technologies, how the amount of information carried in our personal devices or mobile phones can be used in commercial transactions, but also about carrying our health records around with us in case of emergency and about areas where highly confidential data will be distributed.
+
+We also need to think about the new products that will allow wireless technology to carry things like video broadcasts, access to streamed broadcasts that could be passing through and around us: how, for example, could we access our local television station wherever we are in the world, and how would we pay for that?
+That technology is something that will give us a real competitive advantage.
+
+I have just sketched out the what areas of my three questions, so let me conclude by saying how we would like to move this forward.
+This is a contribution to the debate on research policy in Framework Six Programme and our vote today will enable that to move at exactly the right time into the ongoing strategic discussion process.
+We need to ask the Commission, in taking this forward, to look at building a network of excellence around these technologies.
+Although this is one of the areas contained in the Commissions plans, it is clearly a priority for this particular field of technology.
+We are also looking for the sort of integrated projects involving the public and private sector that the Commission envisages in its proposal.
+
+In conclusion, I warmly commend this report to the House today and I would just emphasise again the importance that Parliament attaches to ensuring that the Commission takes this forward in its future strategies.

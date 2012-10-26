@@ -1,0 +1,47 @@
+This is a transcript of a European Parliament speech by Victor Bauer:
+
+Mr President, the Commission proposal on the patentability of computerimplemented inventions before Parliament is not, as some opponents of the directive have suggested, a new phenomenon.
+Neither does it argue for the patenting of software, nor for extending the patentability and scope of protection in this area.
+
+The fact is that some  30   000  patents for computerimplemented inventions have been handed out by the European Patent Office and indeed national patent offices.
+Computerimplemented inventions are present, as the Commissioner has said, in everyday household appliances, from safety devices such as airbags in cars to mobile phones, washing machines and an endless list of other devices with relevance going well beyond the traditional computer industries to the heart of our manufacturing sectors.
+Let us be clear: without this directive, patents will continue to be filed.
+Out of over  110   000  applications received at the EPO in  2001 ,  16   000  dealt with inventions in computerimplemented technologies.
+
+In the USA, and increasingly in Japan, patents have unfortunately been granted for what is essentially pure software.
+An EU directive, by setting limits to patentability in this area, could stop the drift in Europe towards a USliberal style of patenting software as such, and indeed of patenting pure business methods.
+
+One oftquoted example of such a bad patent is Amazons oneclick shopping method.
+Clearly this technology is not new, nor is it unique, and patenting of software business methods such as this is not good for innovation and competition.
+It is unfortunate that the EPO has granted it a patent: this is an example of bad EPO practice.
+
+Without a doubt computerimplemented inventions  genuine inventions which, in some cases, are the result of  10  to  15  years RD investment  are important for the European economy.
+At a time when many of our traditional industries are migrating to China and the Far East, we need to rely on our innovation and inventiveness to earn our living.
+
+I have seen letters from small companies across Europe which are supportive of this directive.
+A small Belgian company employing  12  people has written to me saying that it needs patents to get a return on its investment, to grow its business and to ensure that others respect its technology.
+It is important for many European companies to grow their businesses through revenue secured by patents and licences.
+This is also the case for a tenperson company in the southwest of England, located in an economic blackspot with high unemployment.
+This company granted a licence to a US multinational for its computerimplemented voice recognition patents, which shows that in the world of global patents there can be examples of David meeting Goliath.
+Without patent protection the small company could have found itself in a perverse situation where its RD efforts would have been free for the multinational company which, with its team of patent lawyers, would have gained the patent in this area.
+Consequently, the European company would not have reaped the benefits and, indeed, there could have been an infringement of a patent owned by a multinational.
+
+I have tabled amendments in my report to underline my opposition to the patenting of software as such.
+We want explicitly to exclude computer methods, algorithms and mathematical models from patentability, as set out in a new Article  4 .
+I have attempted to produce balanced legislation that takes account of the needs of all sectors of the industry, not just one vocal sector that is against this directive.
+
+I would be the first to agree that we need more debate on and refinement of the proposed legislation.
+I therefore ask the Commission to look at the crux of this debate: how do we get good patent law which rewards our most innovative companies for their investment in RD while, at the same time, not allowing companies to use patents to abuse a dominant position, lock up technology and stifle innovation and competition?
+I therefore ask the Commissioner to look at these amendments tabled in plenary today.
+They are very clear in suggesting that we need to limit patentability to genuine inventions in Articles  2  and  4 .
+We want to ensure interoperability to enable computer programmers to engage in reverse engineering practices and to decompile programs for experimental purposes without risking infringement or legal action.
+It is vital that we address the perception that patents are only for big business: small companies can, and do, gain from patent protection.
+However, to have a fighting chance in such a competitive business they need access to affordable patents and assistance with legal fees to protect and enforce their patents.
+
+Other amendments seek to ensure that the granting of a patent does not allow monopoly or abuse of a dominant position.
+We also want to protect the opensource community which makes a vital contribution to competitiveness in the area of software development.
+
+Therefore, I ask the Commissioner to give serious consideration to the amendments and to recognise them in the spirit in which they have been tabled, as a genuine attempt to ensure that Europe develops good patent law in the field of computerimplemented inventions.
+This does not mean rubberstamping bad practice in Europe, but developing good practice for the future, good law, good patent examiners, and a quick death for applications that are clearly not inventions.
+We also want to ensure that multinationals do not dominate in our EU markets.
+We need patents in order to protect our own companies and investments so that they can be effective global players in this fastchanging and rapidly developing softwaredevelopment market.
